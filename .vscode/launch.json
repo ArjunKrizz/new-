@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LAB_1",
+            "request": "launch",
+            "mainClass": "LAB_1",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch LOOOPS",
+            "request": "launch",
+            "mainClass": "LOOOPS",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops1",
+            "request": "launch",
+            "mainClass": "Loops1",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops3",
+            "request": "launch",
+            "mainClass": "Loops3",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switchex",
+            "request": "launch",
+            "mainClass": "Switchex",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch condition",
+            "request": "launch",
+            "mainClass": "condition",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch java1",
+            "request": "launch",
+            "mainClass": "java1",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch java2",
+            "request": "launch",
+            "mainClass": "java2",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch java2_1",
+            "request": "launch",
+            "mainClass": "java2_1",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_switch",
+            "request": "launch",
+            "mainClass": "java_switch",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch name_age_class",
+            "request": "launch",
+            "mainClass": "name_age_class",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch prac",
+            "request": "launch",
+            "mainClass": "prac",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        },
+        {
+            "type": "java",
+            "name": "Launch withswitch",
+            "request": "launch",
+            "mainClass": "withswitch",
+            "projectName": "JAVAAAAAAAAAA_9640ca06"
+        }
+    ]
+}
